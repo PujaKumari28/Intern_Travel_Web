@@ -1,0 +1,49 @@
+/* font */
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300..700&display=swap');
+/* icon */
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css");
+
+*{
+    font-family: "Comfortaa", sans-serif;
+    font-weight: 500;
+}
+#Home{
+    background: url('../img/img01.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #00000083;
+    background-blend-mode: multiply;
+    height: 88.5vh;
+}
+#Banner01{
+    background: url('../img/img05.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #00000083;
+    background-blend-mode: multiply;
+    height: 80vh;
+}
+#Banner02{
+    background: url('../img/img04.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #00000083;
+    background-blend-mode: multiply;
+    height: 70vh;
+}
+.icon-container{
+    width: 60px;
+    height: 60px;
+}
+.card-img-overlay{
+    background-color: #00000069;
+    background-blend-mode: multiply;
+}
+.card-blog{
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
